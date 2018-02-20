@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638923512434",
+    "firebase_url": "https://cybertreasure-3f578.firebaseio.com",
+    "project_id": "cybertreasure-3f578",
+    "storage_bucket": "cybertreasure-3f578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638923512434:android:ca9aa6be818c7ae9",
+        "android_client_info": {
+          "package_name": "com.example.porus.cybertreasure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638923512434-dbd3c1145ov8a0p86eotggtrjomqjl0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.porus.cybertreasure",
+            "certificate_hash": "1e17d3bed4353b470f887a77ecf3d77a868d848d"
+          }
+        },
+        {
+          "client_id": "638923512434-g7egurmdq8catjqpd7dpqphahenlth26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxIXgi3XZOAP3uGrTbS6CWv0I08aofyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638923512434-g7egurmdq8catjqpd7dpqphahenlth26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
